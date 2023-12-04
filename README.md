@@ -6,4 +6,6 @@
 - how npm install & package.json works https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
 - personal favourite yt on css and flexbox https://www.youtube.com/@slayingthedragon
+- ai image editor https://ai.nero.com/
+- edit images online for free https://www.online-image-editor.com/
 
