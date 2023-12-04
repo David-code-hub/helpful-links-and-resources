@@ -7,7 +7,7 @@
 - how npm install & package.json works https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file
 - personal favourite yt on css and flexbox https://www.youtube.com/@slayingthedragon
 - understanding git,one of the best videos I've watched on this topic https://youtu.be/mJ-qvsxPHpY?si=vcK5sTzyHm6SIR28
-- best free **illustrations** https://undraw.co/illustrations
+- best free illustrations https://undraw.co/illustrations
 
 ## Editing + random stuff🦵
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
