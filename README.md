@@ -21,4 +21,5 @@
 - https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM
 - https://youtu.be/vgOoWTpT73U?si=1CRgxTwgWF2xKPa7
 - https://youtu.be/SHTXpNfK2R8?si=wK92Hh1t8I6zgZ8x
+- resonance https://www.youtube.com/watch?v=I-P2d5SxlgQ
 
