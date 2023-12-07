@@ -11,6 +11,7 @@
 - understanding git,one of the best videos I've watched on this topic https://youtu.be/mJ-qvsxPHpY?si=vcK5sTzyHm6SIR28
 - best free illustrations https://undraw.co/illustrations
 - mac os downgrade/update python version https://stackoverflow.com/questions/62898911/how-to-downgrade-python-version-from-3-8-to-3-7-mac
+- json parse & strigify https://www.w3schools.com/js/js_json_stringify.asp
 
 ## Editing + random stuff🦵
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
