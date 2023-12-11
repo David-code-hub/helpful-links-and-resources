@@ -13,6 +13,7 @@
 - mac os downgrade/update python version https://stackoverflow.com/questions/62898911/how-to-downgrade-python-version-from-3-8-to-3-7-mac
 - json parse & strigify https://www.w3schools.com/js/js_json_stringify.asp
 - sqlalchemy query api https://docs.sqlalchemy.org/en/14/orm/query.html
+- codepen css animations https://codepen.io/nelledejones/pen/gOOPWrK
 
 ## Editing + random stuff🦵
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
