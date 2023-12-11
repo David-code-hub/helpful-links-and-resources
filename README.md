@@ -14,6 +14,7 @@
 - json parse & strigify https://www.w3schools.com/js/js_json_stringify.asp
 - sqlalchemy query api https://docs.sqlalchemy.org/en/14/orm/query.html
 - codepen css animations https://codepen.io/nelledejones/pen/gOOPWrK
+- test website speed https://pagespeed.web.dev/
 
 ## Editing + random stuff🦵
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
