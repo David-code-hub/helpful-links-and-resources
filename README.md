@@ -13,7 +13,10 @@
 - mac os downgrade/update python version https://stackoverflow.com/questions/62898911/how-to-downgrade-python-version-from-3-8-to-3-7-mac
 - json parse & strigify https://www.w3schools.com/js/js_json_stringify.asp
 - sqlalchemy query api https://docs.sqlalchemy.org/en/14/orm/query.html
+- codepen css animations https://codepen.io/nelledejones/pen/gOOPWrK
+- test website speed https://pagespeed.web.dev/
 - learn touchtyping https://www.keybr.com/
+
 
 ## Editing + random stuff🦵
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
@@ -21,8 +24,8 @@
 - edit images online for free https://www.online-image-editor.com/
 
 ## Music 🎧
-- https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM
-- https://youtu.be/vgOoWTpT73U?si=1CRgxTwgWF2xKPa7
+- reverb instrumental https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM
+- Best Naruto Shippuden https://youtu.be/vgOoWTpT73U?si=1CRgxTwgWF2xKPa7
 - https://youtu.be/SHTXpNfK2R8?si=wK92Hh1t8I6zgZ8x
 - resonance https://www.youtube.com/watch?v=I-P2d5SxlgQ
 - last night nostaligia lofi https://www.youtube.com/watch?v=dLmyp3xMsAo
