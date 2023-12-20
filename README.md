@@ -16,6 +16,7 @@
 - codepen css animations https://codepen.io/nelledejones/pen/gOOPWrK
 - test website speed https://pagespeed.web.dev/
 - learn touchtyping https://www.keybr.com/
+- js docs https://javascript.info/
 
 
 ## Editing + random stuff🦵
