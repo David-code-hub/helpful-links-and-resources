@@ -17,6 +17,7 @@
 - test website speed https://pagespeed.web.dev/
 - learn touchtyping https://www.keybr.com/
 - js docs https://javascript.info/
+- markdown cheat sheet https://www.markdownguide.org/cheat-sheet/
 
 
 ## Editing + random stuff🦵
