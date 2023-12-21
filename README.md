@@ -30,4 +30,5 @@
 - Naruto Shippuden Openings https://youtu.be/SHTXpNfK2R8?si=wK92Hh1t8I6zgZ8x
 - resonance https://www.youtube.com/watch?v=I-P2d5SxlgQ
 - last night nostaligia lofi https://www.youtube.com/watch?v=dLmyp3xMsAo
+- 100 Minutes Of Heavenly Playboi Carti https://www.youtube.com/watch?v=DljzHxC_9i4
 
