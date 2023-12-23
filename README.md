@@ -1,6 +1,6 @@
 ![obito_wallpaper](https://github.com/David-code-hub/helpful-links-and-resources/assets/55393687/af409489-2abe-446d-94f4-1b6153b0c852)
 
-### Helpful-links-and-resources
+### Helpful-links-and-resources 🌱
 
 ## Programming 👨🏽‍💻
 - the course that got me started with vue(free) https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
