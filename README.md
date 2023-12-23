@@ -24,6 +24,7 @@
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
 - ai image editor https://ai.nero.com/
 - edit images online for free https://www.online-image-editor.com/
+- remove image bg https://www.remove.bg/
 
 ## Music 🎧
 - reverb instrumental https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM
