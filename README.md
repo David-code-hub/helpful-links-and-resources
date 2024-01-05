@@ -2,7 +2,7 @@
 
 ### Helpful-links-and-resources 🌱
 
-## Programming 👨🏽‍💻
+### Programming 👨🏽‍💻
 - the course that got me started with vue(free) https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
 - course that helped me understand python(free) https://pll.harvard.edu/course/cs50s-introduction-programming-python
 - starting vue-vite project https://www.koderhq.com/tutorial/vue/vite/
@@ -20,14 +20,14 @@
 - markdown cheat sheet https://www.markdownguide.org/cheat-sheet/
 
 
-## Random stuff🦵
+### Random stuff🦵
 - mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
 - ai image editor https://ai.nero.com/
 - edit images online for free https://www.online-image-editor.com/
 - remove image bg https://www.remove.bg/
 - excalidraw https://excalidraw.com/
 
-## Music 🎧
+### Music 🎧
 - 😊all of a sudden, everything becomes alright... (minecraft) https://www.youtube.com/watch?v=ANkxRGvl1VY
 - reverb instrumental https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM
 - Best Naruto Shippuden https://youtu.be/vgOoWTpT73U?si=1CRgxTwgWF2xKPa7
