@@ -18,6 +18,7 @@
 - learn touchtyping https://www.keybr.com/
 - js docs https://javascript.info/
 - markdown cheat sheet https://www.markdownguide.org/cheat-sheet/
+- vim cheat sheet https://vim.rtorr.com/
 
 
 ### Random stuff🦵
