@@ -29,13 +29,14 @@
 - excalidraw https://excalidraw.com/
 
 ### Music 🎧
-- 😊all of a sudden, everything becomes alright... (minecraft) https://www.youtube.com/watch?v=ANkxRGvl1VY
-- reverb instrumental https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM
-- Best Naruto Shippuden https://youtu.be/vgOoWTpT73U?si=1CRgxTwgWF2xKPa7
-- Naruto Shippuden Openings https://youtu.be/SHTXpNfK2R8?si=wK92Hh1t8I6zgZ8x
-- resonance https://www.youtube.com/watch?v=I-P2d5SxlgQ
-- last night nostaligia lofi https://www.youtube.com/watch?v=dLmyp3xMsAo
-- 100 Minutes Of Heavenly Playboi Carti https://www.youtube.com/watch?v=DljzHxC_9i4
-- You look lonely MUSIC PLAYLIST Ronin https://www.youtube.com/watch?v=MiKaZFrNZJI&t=2421s
-- atmospheric phonk https://www.youtube.com/watch?v=LCj_Ye3BLS8
+- [😊all of a sudden, everything becomes alright... (minecraft)](https://www.youtube.com/watch?v=ANkxRGvl1VY)
+- [reverb instrumental](https://youtu.be/d0362-JWEbc?si=kWF8C8KG1tU6tFOM)
+- [Best Naruto Shippuden](https://youtu.be/vgOoWTpT73U?si=1CRgxTwgWF2xKPa7)
+- [Naruto Shippuden Openings](https://youtu.be/SHTXpNfK2R8?si=wK92Hh1t8I6zgZ8x)
+- [resonance](https://www.youtube.com/watch?v=I-P2d5SxlgQ)
+- [last night nostaligia lofi](https://www.youtube.com/watch?v=dLmyp3xMsAo)
+- [100 Minutes Of Heavenly Playboi Carti](https://www.youtube.com/watch?v=DljzHxC_9i4)
+- [You look lonely MUSIC PLAYLIST Ronin](https://www.youtube.com/watch?v=MiKaZFrNZJI&t=2421s)
+- [atmospheric phonk](https://www.youtube.com/watch?v=LCj_Ye3BLS8)
+- [A Classical Mix for a King Building His Empire | Motivational Neoclassical Music](https://www.youtube.com/watch?v=cgjzjNQqE_c)
 
