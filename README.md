@@ -22,11 +22,11 @@
 
 
 ### Random stuff🦵
-- mac os shortcut keys https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html
-- ai image editor https://ai.nero.com/
-- edit images online for free https://www.online-image-editor.com/
-- remove image bg https://www.remove.bg/
-- excalidraw https://excalidraw.com/
+- [mac os shortcut keys](https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html)
+- [ai image editor](https://ai.nero.com/)
+- [edit images online for free](https://www.online-image-editor.com/)
+- [remove image bg](https://www.remove.bg/)
+- [excalidraw](https://excalidraw.com/)
 
 ### Music 🎧
 - [😊all of a sudden, everything becomes alright... (minecraft)](https://www.youtube.com/watch?v=ANkxRGvl1VY)
