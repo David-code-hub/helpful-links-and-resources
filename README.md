@@ -27,6 +27,7 @@
 - [edit images online for free](https://www.online-image-editor.com/)
 - [remove image bg](https://www.remove.bg/)
 - [excalidraw](https://excalidraw.com/)
+- [learn spanish online](https://www.spanishdict.com/)
 
 ### Music 🎧
 - [😊all of a sudden, everything becomes alright... (minecraft)](https://www.youtube.com/watch?v=ANkxRGvl1VY)
