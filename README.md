@@ -20,6 +20,7 @@
 - markdown cheat sheet https://www.markdownguide.org/cheat-sheet/
 - vim cheat sheet https://vim.rtorr.com/
 - sync firebase and github https://firebase.google.com/docs/hosting/github-integration
+- [deploy vite react to github pages](https://www.youtube.com/watch?v=XhoWXhyuW_I)
 
 ### Random stuff🦵
 - [mac os shortcut keys](https://www.computerworld.com/article/3023544/30-keyboard-shortcuts-mac-users-need-to-know.html)
